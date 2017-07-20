@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>Amanda's Portfolio</title>
+<link rel="stylesheet" type="text/css" href="style.css"
+</head>
+<body>
+
+<h1>Amanda Celeste Serna</h1>
+<p>Hello, I'm Amanda! I am 16 years old and a rising junior at Roselle Park High
+School. I was born in Queens and I grew up in Roselle Park, NJ. I have a passion
+for computer science and I am apart of the Summer Immersion Program for Girls Who
+Code at Goldman Sachs. </p>
+
+<img src="http://3.bp.blogspot.com/-o6FQAlRBk2o/UPk9zjQzulI/AAAAAAAAEaA/hcqdjqMrqjE/s1600/New_York.jpg" width= "800" height="500"
+<hr>
+<p> This is a picture of downtown New York City which is where Goldman Sachs is
+  located. Here I will learn about many coding languages and how to create many
+  things such as videogames, websites, and apps.
+
+<img src="https://uploads.thealternativepress.com/uploads/photos/e7/best_0c0cb33006a4f2c53227_IMG_4658.JPG" width="800"height="500"
+<hr>
+<p>This is a picture of my town where I grew up.
+
+<img src="https://m1.fluidreview.com/media/assets/reviewrooms/girlswhocode/logo/Girls-Who-Code-Summer-Program_821x234.png" width="400" height="250"
+<hr>
+<img src="http://images.huffingtonpost.com/2012-07-10-girlswhocode.gif" width="400"height="250"
+<h2>Enjoy my portfolio!</h2>
+
+
+
+
+
+
+
+h1 {color:black;}
+body {background-color:lightblue;}
+img {
+  display: block;
+  margin: auto;
+}
+img {
+  display: block;
+  margin: auto;
+}
+p {
+  text-align: center;
+  font-size: 20px;
+  color: blue;
+}
+h1 {
+  text-align: center;
+  font-size: 40px;
+  border:1px solid white;
+  background-color:white;
+}
+
+
+
+
+file:///C:/Users/Training/AppData/Local/atom/app-1.18.0/portfolio.html
